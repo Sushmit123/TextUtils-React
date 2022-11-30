@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.nav{
+  color: palevioletred;
+}
+.p{
+  color: rgb(1, 8, 6);
+  background-color: #61dafb;
+}
+
+.h1{
+  color: coral;
+}
